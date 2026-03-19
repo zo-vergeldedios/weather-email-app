@@ -21,7 +21,7 @@ The app is under `script.js`
 
 ```
 API_KEY="" # mailgun
-NAME=""cat
+NAME=""
 EMAIL=""
 LOCATION="" # 11.11,22.22
 MAILGUN_KEY=""
@@ -29,4 +29,5 @@ PG_CONNECTION_STRING="postgresql://postgres:[Database_Password]@db.asdfasd.supab
 ```
 
 2. Install node js on your computer.
-3. On your terminal, type node script.js and wait for the emails.
+3. Run `npm install`, to install the packages listed on package.json.
+4. On your terminal, type node script.js and wait for the emails.
