@@ -1,6 +1,6 @@
-# Weather App
+# Weather Email App
 
-This weather app let's me know the current temperature, cloudiness in my area. It will send the current temperature, the cloudiness and the current weather to my email and supabase.
+This weather email app let's me know the current temperature, cloudiness in my area. It will send the current temperature, the cloudiness and the current weather to my email and supabase.
 
 ## Description
 
