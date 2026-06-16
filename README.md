@@ -13,7 +13,7 @@ I learned how to exclude sensitive information using .env.
 
 The app is under `script.js`
 
-## Built without AI assistance
+- Built without AI assistance
 
 ## Instructions
 
