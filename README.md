@@ -13,6 +13,8 @@ I learned how to exclude sensitive information using .env.
 
 The app is under `script.js`
 
+## Built without AI assistance
+
 ## Instructions
 
 1. Create .env file and include the following values to your env file to run the app.
